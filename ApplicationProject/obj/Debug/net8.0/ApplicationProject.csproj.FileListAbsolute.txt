@@ -1,0 +1,11 @@
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\bin\Debug\net8.0\ApplicationProject.deps.json
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\bin\Debug\net8.0\ApplicationProject.dll
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\bin\Debug\net8.0\ApplicationProject.pdb
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ApplicationProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ApplicationProject.AssemblyInfoInputs.cache
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ApplicationProject.AssemblyInfo.cs
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ApplicationProject.csproj.CoreCompileInputs.cache
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ApplicationProject.dll
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\refint\ApplicationProject.dll
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ApplicationProject.pdb
+D:\Dotnet\projects_C#\SolutionAPI\ApplicationProject\obj\Debug\net8.0\ref\ApplicationProject.dll

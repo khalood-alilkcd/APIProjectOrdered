@@ -1,0 +1,17 @@
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.csproj.AssemblyReference.cache
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.AssemblyInfoInputs.cache
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.AssemblyInfo.cs
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.csproj.CoreCompileInputs.cache
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\bin\Debug\net8.0\DomainCore.deps.json
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\bin\Debug\net8.0\DomainCore.dll
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\bin\Debug\net8.0\DomainCore.pdb
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\bin\Debug\net8.0\ApplicationProject.dll
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\bin\Debug\net8.0\ApplicationProject.pdb
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.csproj.CopyComplete
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.dll
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\refint\DomainCore.dll
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.pdb
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\ref\DomainCore.dll
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\bin\Debug\net8.0\DomainCore.runtimeconfig.json
+D:\Dotnet\projects_C#\SolutionAPI\DomainCore\obj\Debug\net8.0\DomainCore.genruntimeconfig.cache
